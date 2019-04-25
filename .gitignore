@@ -8,6 +8,7 @@
 /.bundle
 
 .ash_history
+.bash_history
 
 *.swp
 # Ignore the default SQLite database.
