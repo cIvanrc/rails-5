@@ -13,6 +13,7 @@ tmp/
 
 .ash_history
 .bash_history
+.byebug_history
 # Ignore test files:
 .rspec
 Guardfile
