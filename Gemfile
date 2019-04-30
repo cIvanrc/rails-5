@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
  gem 'bcrypt'
  gem 'faker'
+ gem 'will_paginate'
+ gem 'bootstrap-will_paginate'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
