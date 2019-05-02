@@ -25,4 +25,4 @@ test:
 
 production:
   <<: *default
-  database: tmp
+  database: tmp_prod
